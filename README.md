@@ -3,8 +3,8 @@
 
 # Plan
 # SOTA - done
-# EDA, datasets - in progress
-# Baseline model, metrics
+# EDA, datasets - done
+# Baseline model, metrics - in progress
 # Training proper model
 # Testing, validation
 # Comparison to real-life results
